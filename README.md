@@ -1,4 +1,4 @@
-<marquee bgcolor="#FFFF99" direction="left" style="font-size: 1.5em; padding: 5px;">🔍 Advanced AI for Medical Imaging!</marquee>
+<center><marquee bgcolor="#FFFF99" direction="left" style="font-size: 1.5em; padding: 5px;">🔍 Advanced AI for Medical Imaging!</marquee>
 
 <center><b>Overview:</b></center><br>
 This project leverages the power of Convolutional Neural Networks (CNN) to detect and diagnose malaria from cell images. Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected mosquitoes. Rapid and accurate diagnosis is crucial to effectively treat the disease and reduce transmission.
@@ -36,3 +36,4 @@ For deployment, follow the guidelines provided in the deployment folder.<br>
 We welcome contributions from the community! Whether it's improving the model, adding new features, or fixing bugs, feel free to create a pull request.
 
 This is a deep learning solution aimed at automating and speeding up the process of malaria diagnosis, potentially saving countless lives. For more details, code walkthroughs, and collaboration opportunities, visit the GitHub repository.
+</center>
